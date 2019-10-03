@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/kyle-west/gh-registry#readme",
   "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^6.11.3",
+    "semver": "^6.3.0",
     "simple-git": "^1.126.0"
   }
 }
